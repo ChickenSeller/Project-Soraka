@@ -7,7 +7,7 @@
 
 ## 示例客户端:
 
-- Windows: [https://www.lanzous.com/i8q920f](https://www.lanzous.com/i8q920f)
+- Windows: [https://www.lanzous.com/ia7hefi](https://www.lanzous.com/ia7hefi)
 
   用户名: test@kaguya-hime.me
   
